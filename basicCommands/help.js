@@ -18,17 +18,17 @@ module.exports = {
 
     const button1 = new ButtonBuilder()
       .setLabel('YouTube')
-      .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+      .setURL('https://www.youtube.com/channel/UCyRdJRDbMNHSjveeaU7RgLg')
       .setStyle(ButtonStyle.Link);
 
     const button2 = new ButtonBuilder()
       .setLabel('Discord')
-      .setURL('https://discord.gg/FUEHs7RCqz')
+      .setURL('https://discord.gg/CypPZaU7S9')
       .setStyle(ButtonStyle.Link);
 
     const button3 = new ButtonBuilder()
       .setLabel('GitHub')
-      .setURL('https://github.com/RTX-GAMINGG?tab=repositories')
+      .setURL('https://github.com/omgwizzyy')
       .setStyle(ButtonStyle.Link);
       
     const row = new ActionRowBuilder()
