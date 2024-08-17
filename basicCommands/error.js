@@ -33,7 +33,7 @@ const errors = [
       .setImage('https://cdn.discordapp.com/attachments/1170652474563117138/1201585363995607162/image.png?ex=65ca5a93&is=65b7e593&hm=0f5357dc194f787289718e8cb0f88b115fbccf3a7db370ef5f57701e8ad253ba&'),
   },
   {
-    keywords: ['replit','replit not working'],
+    keywords: ['replit not working','on replit'],
     embed: new EmbedBuilder()
       .setColor('#FF0000')
       .setTitle('Replit is No Longer Supported')
